@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/Manas Goel/Documents/MOM-generator/tutorial-env/bin/python3.11" "$0" "$@"
+'''exec' "/Users/Manas Goel/Documents/MOM-generator/tutorial-env/bin/python3.12" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
