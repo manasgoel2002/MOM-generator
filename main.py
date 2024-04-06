@@ -18,7 +18,7 @@ app.add_middleware(
 )
 
 # Include your router
-app.include_router(router,prefix="/chat",tags=["chats,chatbot"])
+app.include_router(router,prefix="/MOMBOT",tags=["chats,chatbot"])
 
-if __name__ == "__main__":
-    uvicorn.run("main:app", host="127.0.0.1", port=8001, reload=True)
+# if __name__ == "__main__":
+#     uvicorn.run("main:app", host="127.0.0.1", port=8001, reload=True)

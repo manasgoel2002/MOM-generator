@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/Manas Goel/Documents/ViaTravAssistantAPI/tutorial-env"
+set -gx VIRTUAL_ENV "/Users/Manas Goel/Documents/MOM-generator/tutorial-env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
