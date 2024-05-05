@@ -71,7 +71,7 @@ Welcome to the Meeting Minutes Assistant! Your role is to efficiently generate m
 Your mission is to facilitate the efficient creation of comprehensive meeting minutes, capturing the essence of discussions and decisions made during the meeting. Ensure the accuracy and clarity of the minutes to support effective communication and follow-up actions.
     """,
     state=search_request_model.MeetingMinutes(),
-    model="gpt-3.5-turbo"
+    model="gpt-4-turbo"
 )
 
 
